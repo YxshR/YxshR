@@ -1,3 +1,7 @@
+<table>
+  <tr>
+    <td>
+
 # 💫 About Me  
 
 Hi, I'm **Yash Gupta** 👋 — a passionate **Full-Stack Developer** exploring the intersection of **AI/ML, Web3, and high-performance backend systems**.  
@@ -8,6 +12,12 @@ Hi, I'm **Yash Gupta** 👋 — a passionate **Full-Stack Developer** exploring 
 - 💬 **Ask me about** → Backend dev, MERN stack, LLM-based apps, API integrations, and Web3 wallets/DApps  
 - ⚡ **Fun fact** → I love **football, anime, and music** 🎵⚽🎬 — they fuel my creativity when I code.  
 
+    </td>
+    <td>
+      <img src="https://drive.google.com/uc?export=view&id=1QzP9hIFCNwZ2cp9jDV5WZSmZh5JQTiBL" width="300" />
+    </td>
+  </tr>
+</table>
 ---
 
 
