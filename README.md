@@ -45,11 +45,32 @@ Hi, I'm **Yash Gupta** 👋 — a passionate **Full-Stack Developer** exploring 
 
 ---
 
-## 🚀 Best GitHub Project  
+## 🚀 My Best Projects  
 
-**Project Name:** [Decentralized AI Marketplace](https://github.com/Yash-Gupta/decentralized-ai-marketplace)  
-**Live Demo:** [Click Here](https://your-live-demo-link.com)  
-**Description:** A platform where developers can upload AI models and users can pay in crypto to access them. Built with Solidity, Next.js, and Prisma.  
+### 1️⃣ ProserveMoney — Full MERN Product / Production-Ready  
+**Role:** MERN Full-Stack / Web Developer / Backend  
+**Tech:** Next.js, React, TypeScript, Node.js, MongoDB, Stripe & Razorpay, Twilio, Resend, Cloudinary, NextAuth, Zod, Tailwind CSS  
+**Why Top:** Complete production workflow with auth, role-based access, payments, messaging, media uploads, and server-side logic.  
+**Resume Bullet:** Built ProserveMoney — a Next.js + TypeScript payment platform with Stripe & Razorpay, Twilio SMS, Resend email, Cloudinary uploads, and role-based auth; implemented server-side APIs and DB seeding for a production-ready workflow.  
+**Links:** [Live Demo](https://your-live-demo-link.com) | [GitHub Repo](https://github.com/Yash-Gupta/proservemoney)  
+
+---
+
+### 2️⃣ Previwer — Backend / Infra / Scalable API  
+**Role:** Backend / MERN Full-Stack  
+**Tech:** Node.js, Prisma + PostgreSQL, Cloudinary, Express-style REST APIs, JWT auth, migrations & seed scripts  
+**Why #2:** Strong backend evidence — DB schema design, migrations, scalable REST APIs, media uploads, production-ready structure.  
+**Resume Bullet:** Developed Previwer backend with Prisma + PostgreSQL migrations, Cloudinary uploads, and secure REST APIs; designed database schema and seed scripts for scalable media management.  
+**Links:** [GitHub Repo](https://github.com/Yash-Gupta/previwer)  
+
+---
+
+### 3️⃣ Admin E-commerce Perfume Website — Full MERN E-commerce Product  
+**Role:** MERN Full-Stack / Web Developer / Backend  
+**Tech:** Next.js/React (TSX), Node.js, MongoDB, Razorpay, Twilio, Multer/Cloudinary, Cron jobs, Tailwind CSS  
+**Why #3:** Real-world e-commerce experience — admin dashboards, payment flows, notifications, media management, automated tasks.  
+**Resume Bullet:** Built admin + storefront for e-commerce app with Next.js/React and Node.js; integrated Razorpay payments, Twilio OTP/SMS, Cloudinary media uploads, and automated cron jobs for inventory and order management.  
+**Links:** [Live Demo](https://your-live-demo-link.com) | [GitHub Repo](https://github.com/Yash-Gupta/admin-ecommerce-perfume)  
 
 ---
 
