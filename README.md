@@ -45,43 +45,51 @@ Hi, I'm **Yash Gupta** 👋 — a passionate **Full-Stack Developer** exploring 
 
 ## 🚀 My Best Projects
 
-<p align="center">
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:20px;">
 
-<table>
-<tr>
 <!-- Project 1 -->
-<td align="center" width="350" style="background-color:#161b22; border-radius:15px; padding:20px; margin:10px; border: 2px solid #238636;">
-  <h2 style="color:#58a6ff;">💰 ProserveMoney</h2>
-  <p style="color:#8b949e; font-size:13px;"><strong>Role:</strong> MERN Full-Stack / Web Developer / Backend</p>
-  <p style="color:#c9d1d9; font-size:13px;"><strong>Tech:</strong> Next.js, React, TypeScript, Node.js, MongoDB, Stripe & Razorpay, Twilio, Resend, Cloudinary, NextAuth, Zod, Tailwind CSS</p>
-  <p style="color:#adbac7; font-size:13px;">Complete production workflow with auth, payments, messaging, media uploads, and server-side APIs. Built for real-world usage!</p>
-  <a href="https://proservemoney-main.vercel.app/" target="_blank" style="display:inline-block; margin:5px; padding:6px 15px; background-color:#238636; color:white; border-radius:8px; font-weight:bold; text-decoration:none;">🚀 Live Demo</a>
-  <a href="https://github.com/Yash-Gupta/proservemoney" target="_blank" style="display:inline-block; margin:5px; padding:6px 15px; background-color:#0969da; color:white; border-radius:8px; font-weight:bold; text-decoration:none;">💻 GitHub</a>
-</td>
+<div style="background-color:#161b22; border-radius:15px; padding:20px; width:300px; border:2px solid #238636; box-shadow:0 4px 12px rgba(0,0,0,0.3); transition: transform 0.2s;">
+  <h2 style="color:#58a6ff; text-align:center;">💰 ProserveMoney</h2>
+  <p style="color:#8b949e; font-size:14px;"><strong>Role:</strong> MERN Full-Stack / Web Developer / Backend</p>
+  <p style="color:#c9d1d9; font-size:14px;"><strong>Tech:</strong> Next.js • React • TypeScript • Node.js • MongoDB • Stripe & Razorpay • Twilio • Resend • Cloudinary • NextAuth • Zod • Tailwind CSS</p>
+  <p style="color:#adbac7; font-size:14px;">Complete production workflow with auth, payments, messaging, media uploads, and server-side APIs. Built for real-world usage!</p>
+  <div style="text-align:center; margin-top:10px;">
+    <a href="https://proservemoney-main.vercel.app/" target="_blank" style="margin:5px; padding:8px 16px; background-color:#238636; color:white; border-radius:8px; font-weight:bold; text-decoration:none;">🚀 Live Demo</a>
+    <a href="https://github.com/Yash-Gupta/proservemoney" target="_blank" style="margin:5px; padding:8px 16px; background-color:#0969da; color:white; border-radius:8px; font-weight:bold; text-decoration:none;">💻 GitHub</a>
+  </div>
+</div>
 
 <!-- Project 2 -->
-<td align="center" width="350" style="background-color:#161b22; border-radius:15px; padding:20px; margin:10px; border: 2px solid #f85149;">
-  <h2 style="color:#ff7b72;">🖥️ Previwer</h2>
-  <p style="color:#8b949e; font-size:13px;"><strong>Role:</strong> Backend / MERN Full-Stack</p>
-  <p style="color:#c9d1d9; font-size:13px;"><strong>Tech:</strong> Node.js, Prisma + PostgreSQL, Cloudinary, REST APIs, JWT auth</p>
-  <p style="color:#adbac7; font-size:13px;">Developed backend with secure REST APIs, DB schema, seed scripts, media uploads, and production-ready structure.</p>
-  <a href="https://prebox-io.vercel.app/" target="_blank" style="display:inline-block; margin:5px; padding:6px 15px; background-color:#238636; color:white; border-radius:8px; font-weight:bold; text-decoration:none;">🚀 Live Demo</a>
-  <a href="https://github.com/Yash-Gupta/previwer" target="_blank" style="display:inline-block; margin:5px; padding:6px 15px; background-color:#0969da; color:white; border-radius:8px; font-weight:bold; text-decoration:none;">💻 GitHub</a>
-</td>
+<div style="background-color:#161b22; border-radius:15px; padding:20px; width:300px; border:2px solid #f85149; box-shadow:0 4px 12px rgba(0,0,0,0.3); transition: transform 0.2s;">
+  <h2 style="color:#ff7b72; text-align:center;">🖥️ Previwer</h2>
+  <p style="color:#8b949e; font-size:14px;"><strong>Role:</strong> Backend / MERN Full-Stack</p>
+  <p style="color:#c9d1d9; font-size:14px;"><strong>Tech:</strong> Node.js • Prisma + PostgreSQL • Cloudinary • REST APIs • JWT auth</p>
+  <p style="color:#adbac7; font-size:14px;">Developed backend with secure REST APIs, DB schema, seed scripts, media uploads, and production-ready structure.</p>
+  <div style="text-align:center; margin-top:10px;">
+    <a href="https://prebox-io.vercel.app/" target="_blank" style="margin:5px; padding:8px 16px; background-color:#238636; color:white; border-radius:8px; font-weight:bold; text-decoration:none;">🚀 Live Demo</a>
+    <a href="https://github.com/Yash-Gupta/previwer" target="_blank" style="margin:5px; padding:8px 16px; background-color:#0969da; color:white; border-radius:8px; font-weight:bold; text-decoration:none;">💻 GitHub</a>
+  </div>
+</div>
 
 <!-- Project 3 -->
-<td align="center" width="350" style="background-color:#161b22; border-radius:15px; padding:20px; margin:10px; border: 2px solid #ffac33;">
-  <h2 style="color:#ffdf6c;">🛍️ Admin E-commerce Perfume</h2>
-  <p style="color:#8b949e; font-size:13px;"><strong>Role:</strong> MERN Full-Stack / Web Developer / Backend</p>
-  <p style="color:#c9d1d9; font-size:13px;"><strong>Tech:</strong> Next.js/React, Node.js, MongoDB, Razorpay, Twilio, Cloudinary, Cron Jobs, Tailwind CSS</p>
-  <p style="color:#adbac7; font-size:13px;">Built admin + storefront with payments, OTP/SMS notifications, media uploads, and automated inventory/order management.</p>
-  <a href="https://admin-ecommerce-perfume-website1.vercel.app/store-routes/store" target="_blank" style="display:inline-block; margin:5px; padding:6px 15px; background-color:#238636; color:white; border-radius:8px; font-weight:bold; text-decoration:none;">🚀 Live Demo</a>
-  <a href="https://github.com/Yash-Gupta/admin-ecommerce-perfume" target="_blank" style="display:inline-block; margin:5px; padding:6px 15px; background-color:#0969da; color:white; border-radius:8px; font-weight:bold; text-decoration:none;">💻 GitHub</a>
-</td>
-</tr>
-</table>
+<div style="background-color:#161b22; border-radius:15px; padding:20px; width:300px; border:2px solid #ffac33; box-shadow:0 4px 12px rgba(0,0,0,0.3); transition: transform 0.2s;">
+  <h2 style="color:#ffdf6c; text-align:center;">🛍️ Admin E-commerce Perfume</h2>
+  <p style="color:#8b949e; font-size:14px;"><strong>Role:</strong> MERN Full-Stack / Web Developer / Backend</p>
+  <p style="color:#c9d1d9; font-size:14px;"><strong>Tech:</strong> Next.js/React • Node.js • MongoDB • Razorpay • Twilio • Cloudinary • Cron Jobs • Tailwind CSS</p>
+  <p style="color:#adbac7; font-size:14px;">Built admin + storefront with payments, OTP/SMS notifications, media uploads, and automated inventory/order management.</p>
+  <div style="text-align:center; margin-top:10px;">
+    <a href="https://admin-ecommerce-perfume-website1.vercel.app/store-routes/store" target="_blank" style="margin:5px; padding:8px 16px; background-color:#238636; color:white; border-radius:8px; font-weight:bold; text-decoration:none;">🚀 Live Demo</a>
+    <a href="https://github.com/Yash-Gupta/admin-ecommerce-perfume" target="_blank" style="margin:5px; padding:8px 16px; background-color:#0969da; color:white; border-radius:8px; font-weight:bold; text-decoration:none;">💻 GitHub</a>
+  </div>
+</div>
 
-</p>
+</div>
+
+<style>
+div:hover {
+  transform: translateY(-5px);
+}
+</style>
 
 
 
