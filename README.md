@@ -4,7 +4,7 @@
 
 # 💫 About Me  
 
-Hi, I'm **Yash Gupta** 👋 — a passionate **Full-Stack Developer** exploring the intersection of **AI/ML, Web3, and high-performance backend systems**.  
+Hi, I'm **Yash** 👋 — a passionate **Full-Stack Developer** exploring the intersection of **AI/ML, Web3, and high-performance backend systems**.  
 
 - 👯 **Collaborating on** → Web3 DApps, innovative backend systems, and AI-driven applications 🚀  
 - 🤝 **Looking for help with** → Advanced LLM fine-tuning, embeddings, and agentic frameworks for scalable AI solutions  
