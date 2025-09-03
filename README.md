@@ -1,10 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on : Web3 DApps, innovative backend systems, and AI-driven applications 🚀
-🤝 I’m looking for help with : Advanced LLM fine-tuning, embeddings, and agentic frameworks for scalable AI solutions.
-🌱 I’m currently learning : AI/ML architectures (RAG pipelines, embeddings, fine-tuning)
-Next.js + Prisma optimizations for high-performance apps : New programming languages to expand my developer toolkit 🖥️
-💬 Ask me about : Backend development, MERN stack, LLM-based apps, API integrations, and Web3 wallets/DApps.
-⚡ Fun fact : I’m a huge fan of football, anime, and music 🎵⚽🎬 — coding is fun, but these keep me inspired.
+👯 I’m looking to collaborate on : Web3 DApps, innovative backend systems, and AI-driven applications 🚀<br><br>🤝 I’m looking for help with : Advanced LLM fine-tuning, embeddings, and agentic frameworks for scalable AI solutions.<br><br>🌱 I’m currently learning : AI/ML architectures (RAG pipelines, embeddings, fine-tuning)<br><br>Next.js + Prisma optimizations for high-performance apps : New programming languages to expand my developer toolkit 🖥️<br><br>💬 Ask me about : Backend development, MERN stack, LLM-based apps, API integrations, and Web3 wallets/DApps.<br><br>⚡ Fun fact : I’m a huge fan of football, anime, and music 🎵⚽🎬 — coding is fun, but these keep me inspired.
 
 
 ## 🌐 Socials:
