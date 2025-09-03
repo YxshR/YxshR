@@ -10,6 +10,12 @@ Hi, I'm **Yash Gupta** 👋 — a passionate **Full-Stack Developer** exploring 
 
 ---
 
+<td width="38%" valign="top" align="center">
+  <a href="https://www.pinterest.com/pin/3377768466992274/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/pin.jpg" alt="Pinterest pin — click to view" width="320"/>
+  </a>
+</td>
+
 
 ## 🌐 Connect With Me  
 
