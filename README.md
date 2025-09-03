@@ -36,12 +36,8 @@ Hi, I'm **Yash Gupta** 👋 — a passionate **Full-Stack Developer** exploring 
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=Yash-Gupta&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180em" />  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Yash-Gupta&theme=radical&hide_border=false" height="180em" />  
-</p>  
-
-<p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-Gupta&theme=radical&hide_border=false&layout=compact" height="180em" />  
-</p>  
+</p>
 
 ---
 
