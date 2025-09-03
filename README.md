@@ -47,60 +47,6 @@ Hi, I'm **Yash Gupta** 👋 — a passionate **Full-Stack Developer** exploring 
 
 <div align="center">
 
-| 💰 **ProserveMoney** | 🖥️ **Previwer** | 🛍️ **Admin E-commerce Perfume** |
-|:---:|:---:|:---:|
-| **Role:** MERN Full-Stack / Web Developer / Backend | **Role:** Backend / MERN Full-Stack | **Role:** MERN Full-Stack / Web Developer / Backend |
-| **Tech:** Next.js, React, TypeScript, Node.js, MongoDB, Stripe & Razorpay, Twilio, Resend, Cloudinary, NextAuth, Zod, Tailwind CSS | **Tech:** Node.js, Prisma + PostgreSQL, Cloudinary, REST APIs, JWT auth | **Tech:** Next.js/React, Node.js, MongoDB, Razorpay, Twilio, Cloudinary, Cron Jobs, Tailwind CSS |
-| Complete production workflow with auth, payments, messaging, media uploads, and server-side APIs. Built for real-world usage! | Developed backend with secure REST APIs, DB schema, seed scripts, media uploads, and production-ready structure. | Built admin + storefront with payments, OTP/SMS notifications, media uploads, and automated inventory/order management. |
-| [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-37a779?style=for-the-badge)](https://proservemoney-main.vercel.app/) [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Yash-Gupta/proservemoney) | [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-37a779?style=for-the-badge)](https://prebox-io.vercel.app/) [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Yash-Gupta/previwer) | [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-37a779?style=for-the-badge)](https://admin-ecommerce-perfume-website1.vercel.app/store-routes/store) [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Yash-Gupta/admin-ecommerce-perfume) |
-
-</div>
-
----
-
-## Alternative Card-Style Layout
-
-<div align="center">
-
-### 💰 ProserveMoney
-**`MERN Full-Stack / Web Developer / Backend`**
-
-**Tech Stack:** Next.js • React • TypeScript • Node.js • MongoDB • Stripe & Razorpay • Twilio • Resend • Cloudinary • NextAuth • Zod • Tailwind CSS
-
-*Complete production workflow with auth, payments, messaging, media uploads, and server-side APIs. Built for real-world usage!*
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-37a779?style=for-the-badge)](https://proservemoney-main.vercel.app/) [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Yash-Gupta/proservemoney)
-
----
-
-### 🖥️ Previwer
-**`Backend / MERN Full-Stack`**
-
-**Tech Stack:** Node.js • Prisma + PostgreSQL • Cloudinary • REST APIs • JWT auth
-
-*Developed backend with secure REST APIs, DB schema, seed scripts, media uploads, and production-ready structure.*
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-37a779?style=for-the-badge)](https://prebox-io.vercel.app/) [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Yash-Gupta/previwer)
-
----
-
-### 🛍️ Admin E-commerce Perfume
-**`MERN Full-Stack / Web Developer / Backend`**
-
-**Tech Stack:** Next.js/React • Node.js • MongoDB • Razorpay • Twilio • Cloudinary • Cron Jobs • Tailwind CSS
-
-*Built admin + storefront with payments, OTP/SMS notifications, media uploads, and automated inventory/order management.*
-
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-37a779?style=for-the-badge)](https://admin-ecommerce-perfume-website1.vercel.app/store-routes/store) [![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Yash-Gupta/admin-ecommerce-perfume)
-
-</div>
-
----
-
-## Compact Badge Version
-
-<div align="center">
-
 <table>
 <tr>
 <td align="center" width="33%">
