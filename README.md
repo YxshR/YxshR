@@ -18,15 +18,17 @@ Hi, I'm **Yash Gupta** 👋 — a passionate **Full-Stack Developer** exploring 
     </td>
   </tr>
 </table>
----
 
+---
 
 ## 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-rd)  
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31412848/yash-gupta)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Y_ash_R_)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yg27june.yash@gmail.com)  
+<p align="center">
+  <a href="https://linkedin.com/in/yash-rd"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/31412848/yash-gupta"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://x.com/Y_ash_R_"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+  <a href="mailto:yg27june.yash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -40,6 +42,14 @@ Hi, I'm **Yash Gupta** 👋 — a passionate **Full-Stack Developer** exploring 
 </p>  
 
 *(Full tech stack available in detailed badges below ⬇️)*  
+
+---
+
+## 🚀 Best GitHub Project  
+
+**Project Name:** [Decentralized AI Marketplace](https://github.com/Yash-Gupta/decentralized-ai-marketplace)  
+**Live Demo:** [Click Here](https://your-live-demo-link.com)  
+**Description:** A platform where developers can upload AI models and users can pay in crypto to access them. Built with Solidity, Next.js, and Prisma.  
 
 ---
 
