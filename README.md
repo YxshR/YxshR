@@ -10,6 +10,13 @@ Hi, I'm **Yash Gupta** 👋 — a passionate **Full-Stack Developer** exploring 
 
 ---
 
+
+
+Get Embed Code
+
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=3377768466992274" height="352" width="450" frameborder="0" scrolling="no" ></iframe>
+
+
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-rd)  
