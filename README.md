@@ -1,91 +1,24 @@
-<h1 align="center">Hi 👋, I'm Yash Gupta</h1>
-<h3 align="center">🚀 Full-Stack (MERN) & Backend Developer | Web3 & AI/LLM Enthusiast</h3>
+# 💫 About Me:
+🎓 Currently pursuing MCA in AI & ML at Chandigarh University (2023–2025).<br><br>💼 Experienced in building scalable APIs, payment platforms, and production-ready web apps using Node.js, Next.js, TypeScript, Prisma, and MongoDB/PostgreSQL.<br><br>🤖 Skilled with AI/LLM frameworks (OpenAI API, Anthropic Claude, LangChain, RAG, Vercel AI SDK) to develop intelligent assistants and retrieval-augmented systems.<br><br>🌐 Worked on Web3 DApps integrating wallet connections, ethers.js, and blockchain-ready UIs.<br><br>🚀 Always exploring new tools, automation workflows, and SDKs to stay ahead of emerging tech.
 
-<p align="center">
-  <a href="mailto:yg27june.yash@gmail.com"><img src="https://img.shields.io/badge/Email-yg27june.yash%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://linkedin.com/in/yash-rd"><img src="https://img.shields.io/badge/LinkedIn-Yash%20Gupta-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/YxshR"><img src="https://img.shields.io/badge/GitHub-YxshR-black?style=for-the-badge&logo=github"></a>
-  <a href="https://x.com/Y_ash_R_"><img src="https://img.shields.io/badge/Twitter%20(X)-Y__ash__R_-1DA1F2?style=for-the-badge&logo=x"></a>
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-rd/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31412848/yash-gupta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Y_ash_R_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yg27june.yash@gmail.com) 
 
-## 👨‍💻 About Me
-- 🎓 MCA in **AI & ML** from Chandigarh University (2023–2025)  
-- 💼 Experienced in **Node.js, Next.js, TypeScript, Prisma, MongoDB/Postgres**  
-- 🤖 Building **AI/LLM-powered apps** (OpenAI, Anthropic Claude, LangChain, RAG, tool-calling)  
-- 🌐 Passionate about **Backend Engineering, Web3 DApps, and AI solutions**  
-- 🚀 Always exploring **new frameworks, SDKs, and automation tools**  
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YxshR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=YxshR&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YxshR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YxshR&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🛠️ Tech Stack
-```yaml
-Languages: JavaScript (ES6+), TypeScript, Python, Java
-Frontend: React, Next.js, Redux, Tailwind CSS, MUI
-Backend: Node.js, Express.js, Prisma, REST APIs, Cron Jobs
-Databases: MongoDB, PostgreSQL, MySQL
-AI/LLM: OpenAI API, Anthropic Claude, LangChain, RAG, Vercel AI SDK
-Integrations: Stripe, Razorpay, Cloudinary, Twilio, Resend
-Other: Git/GitHub, Docker, Postman, CI/CD, Web3.js/Ethers.js
-
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YxshR&show_icons=true&theme=tokyonight" height="160px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YxshR&theme=tokyonight" height="160px"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YxshR&layout=compact&theme=tokyonight" height="160px"/> </p>
-⌨️ Fun Typing Animation
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F729&center=true&vCenter=true&lines=Backend+Developer;Full-Stack+MERN+Engineer;AI+%26+LLM+Applications;Web3+%26+Blockchain;Always+Learning+%F0%9F%9A%80"> </p>
-📫 Let's Connect
-
-💌 Open to Full-Stack, Backend, Web3, and AI/LLM roles worldwide.
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=YxshR&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📌 GPRM JSON Config  
-
-Save this as `profile.json` and import at [gprm.itsvg.in](https://gprm.itsvg.in).  
-
-```json
-{
-  "name": "Yash Gupta",
-  "headline": "🚀 Full-Stack (MERN) & Backend Developer | Web3 & AI/LLM Enthusiast",
-  "about": "MCA in AI & ML | Building scalable web & AI solutions | Passionate about Web3 & Backend Engineering.",
-  "skills": ["Node.js", "Express.js", "Next.js", "TypeScript", "Prisma", "MongoDB", "PostgreSQL", "AI/LLMs", "LangChain", "Web3"],
-  "socials": {
-    "github": "https://github.com/YxshR",
-    "linkedin": "https://linkedin.com/in/yash-rd",
-    "twitter": "https://x.com/Y_ash_R_",
-    "email": "yg27june.yash@gmail.com"
-  },
-  "projects": [
-    {
-      "name": "ProserveMoney",
-      "link": "https://github.com/YxshR/proservemoney-main",
-      "description": "Next.js + TypeScript + Stripe/Razorpay + Twilio + Cloudinary"
-    },
-    {
-      "name": "Previwer Backend",
-      "link": "https://github.com/YxshR/previwer",
-      "description": "Prisma + PostgreSQL + Node.js + Cloudinary + REST APIs"
-    },
-    {
-      "name": "E-commerce Admin (Perfume)",
-      "link": "https://github.com/YxshR/admin-ecommerce-perfume-website1",
-      "description": "Admin dashboards, Razorpay checkout, cron jobs"
-    },
-    {
-      "name": "Networking Social Media",
-      "link": "https://github.com/YxshR/MIxed-Networking-Social-Media",
-      "description": "MERN + Redux + GridFS media uploads"
-    },
-    {
-      "name": "Fake News Detector",
-      "link": "https://github.com/YxshR/fake-news-detector",
-      "description": "Flask API + TF-IDF + Logistic Regression (85% accuracy)"
-    },
-    {
-      "name": "Web3 YouTube Thumbnail Reviewer",
-      "link": "https://github.com/YxshR/web3-youtube-thumbnail-reviewer-main",
-      "description": "Next.js + Web3 wallet integrations"
-    }
-  ]
-}
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
