@@ -1,5 +1,10 @@
 # 💫 About Me:
-🎓 Currently pursuing MCA in AI & ML at Chandigarh University (2023–2025).<br><br>💼 Experienced in building scalable APIs, payment platforms, and production-ready web apps using Node.js, Next.js, TypeScript, Prisma, and MongoDB/PostgreSQL.<br><br>🤖 Skilled with AI/LLM frameworks (OpenAI API, Anthropic Claude, LangChain, RAG, Vercel AI SDK) to develop intelligent assistants and retrieval-augmented systems.<br><br>🌐 Worked on Web3 DApps integrating wallet connections, ethers.js, and blockchain-ready UIs.<br><br>🚀 Always exploring new tools, automation workflows, and SDKs to stay ahead of emerging tech.
+👯 I’m looking to collaborate on : Web3 DApps, innovative backend systems, and AI-driven applications 🚀
+🤝 I’m looking for help with : Advanced LLM fine-tuning, embeddings, and agentic frameworks for scalable AI solutions.
+🌱 I’m currently learning : AI/ML architectures (RAG pipelines, embeddings, fine-tuning)
+Next.js + Prisma optimizations for high-performance apps : New programming languages to expand my developer toolkit 🖥️
+💬 Ask me about : Backend development, MERN stack, LLM-based apps, API integrations, and Web3 wallets/DApps.
+⚡ Fun fact : I’m a huge fan of football, anime, and music 🎵⚽🎬 — coding is fun, but these keep me inspired.
 
 
 ## 🌐 Socials:
