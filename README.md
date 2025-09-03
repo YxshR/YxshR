@@ -43,36 +43,44 @@ Hi, I'm **Yash Gupta** 👋 — a passionate **Full-Stack Developer** exploring 
 
 *(Full tech stack available in detailed badges below ⬇️)*  
 
----
+## 🚀 My Best Projects
 
-## 🚀 My Best Projects  
+<p align="center">
+  <table>
+    <tr>
+      <!-- Project 1 -->
+      <td align="center" width="320" style="background-color:#0d1117; border-radius:10px; padding:20px; margin:10px;">
+        <h3 style="color:white;">ProserveMoney</h3>
+        <p style="color:#c9d1d9; font-size:14px;">Full MERN Product / Production-Ready<br>
+        <strong>Tech:</strong> Next.js, React, TypeScript, Node.js, MongoDB, Stripe & Razorpay, Twilio, Resend, Cloudinary, NextAuth, Zod, Tailwind CSS</p>
+        <p style="color:#8b949e; font-size:13px;">Built a payment platform with role-based auth, Stripe & Razorpay, Twilio SMS, email, media uploads, and server-side APIs for production workflow.</p>
+        <a href="https://proservemoney-main.vercel.app/" target="_blank" style="display:inline-block; margin:5px; padding:6px 12px; background-color:#238636; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">Live Demo</a>
+        <a href="https://github.com/Yash-Gupta/proservemoney" target="_blank" style="display:inline-block; margin:5px; padding:6px 12px; background-color:#0366d6; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">GitHub</a>
+      </td>
 
-### 1️⃣ ProserveMoney — Full MERN Product / Production-Ready  
-**Role:** MERN Full-Stack / Web Developer / Backend  
-**Tech:** Next.js, React, TypeScript, Node.js, MongoDB, Stripe & Razorpay, Twilio, Resend, Cloudinary, NextAuth, Zod, Tailwind CSS  
-**Why Top:** Complete production workflow with auth, role-based access, payments, messaging, media uploads, and server-side logic.  
-**Resume Bullet:** Built ProserveMoney — a Next.js + TypeScript payment platform with Stripe & Razorpay, Twilio SMS, Resend email, Cloudinary uploads, and role-based auth; implemented server-side APIs and DB seeding for a production-ready workflow.  
-**Links:** [Live Demo](https://your-live-demo-link.com) | [GitHub Repo](https://github.com/Yash-Gupta/proservemoney)  
+      <!-- Project 2 -->
+      <td align="center" width="320" style="background-color:#0d1117; border-radius:10px; padding:20px; margin:10px;">
+        <h3 style="color:white;">Previwer</h3>
+        <p style="color:#c9d1d9; font-size:14px;">Backend / Infra / Scalable API<br>
+        <strong>Tech:</strong> Node.js, Prisma + PostgreSQL, Cloudinary, REST APIs, JWT auth</p>
+        <p style="color:#8b949e; font-size:13px;">Developed backend with Prisma + PostgreSQL, Cloudinary uploads, secure REST APIs, DB schema and seed scripts for scalable media management.</p>
+        <a href="https://prebox-io.vercel.app/" target="_blank" style="display:inline-block; margin:5px; padding:6px 12px; background-color:#238636; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">Live Demo</a>
+        <a href="https://github.com/Yash-Gupta/previwer" target="_blank" style="display:inline-block; margin:5px; padding:6px 12px; background-color:#0366d6; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">GitHub</a>
+      </td>
 
----
+      <!-- Project 3 -->
+      <td align="center" width="320" style="background-color:#0d1117; border-radius:10px; padding:20px; margin:10px;">
+        <h3 style="color:white;">Admin E-commerce Perfume Website</h3>
+        <p style="color:#c9d1d9; font-size:14px;">Full MERN E-commerce Product<br>
+        <strong>Tech:</strong> Next.js/React, Node.js, MongoDB, Razorpay, Twilio, Cloudinary, Cron Jobs, Tailwind CSS</p>
+        <p style="color:#8b949e; font-size:13px;">Built admin + storefront, integrated Razorpay payments, Twilio OTP/SMS, Cloudinary uploads, and automated cron jobs for inventory & orders.</p>
+        <a href="https://admin-ecommerce-perfume-website1.vercel.app/store-routes/store" target="_blank" style="display:inline-block; margin:5px; padding:6px 12px; background-color:#238636; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">Live Demo</a>
+        <a href="https://github.com/Yash-Gupta/admin-ecommerce-perfume" target="_blank" style="display:inline-block; margin:5px; padding:6px 12px; background-color:#0366d6; color:white; border-radius:5px; text-decoration:none; font-weight:bold;">GitHub</a>
+      </td>
+    </tr>
+  </table>
+</p>
 
-### 2️⃣ Previwer — Backend / Infra / Scalable API  
-**Role:** Backend / MERN Full-Stack  
-**Tech:** Node.js, Prisma + PostgreSQL, Cloudinary, Express-style REST APIs, JWT auth, migrations & seed scripts  
-**Why #2:** Strong backend evidence — DB schema design, migrations, scalable REST APIs, media uploads, production-ready structure.  
-**Resume Bullet:** Developed Previwer backend with Prisma + PostgreSQL migrations, Cloudinary uploads, and secure REST APIs; designed database schema and seed scripts for scalable media management.  
-**Links:** [GitHub Repo](https://github.com/Yash-Gupta/previwer)  
-
----
-
-### 3️⃣ Admin E-commerce Perfume Website — Full MERN E-commerce Product  
-**Role:** MERN Full-Stack / Web Developer / Backend  
-**Tech:** Next.js/React (TSX), Node.js, MongoDB, Razorpay, Twilio, Multer/Cloudinary, Cron jobs, Tailwind CSS  
-**Why #3:** Real-world e-commerce experience — admin dashboards, payment flows, notifications, media management, automated tasks.  
-**Resume Bullet:** Built admin + storefront for e-commerce app with Next.js/React and Node.js; integrated Razorpay payments, Twilio OTP/SMS, Cloudinary media uploads, and automated cron jobs for inventory and order management.  
-**Links:** [Live Demo](https://your-live-demo-link.com) | [GitHub Repo](https://github.com/Yash-Gupta/admin-ecommerce-perfume)  
-
----
 
 ## 📊 GitHub Stats  
 
