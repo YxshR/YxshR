@@ -60,19 +60,19 @@ Hi, I'm **Yash** 👋 — a passionate **Full-Stack Developer** exploring the in
 
 **MERN Full-Stack Development**
 
-[![Demo](https://img.shields.io/badge/🚀_Demo-37a779?style=flat)](https://proservemoney-main.vercel.app/) [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat)](https://github.com/Yash-Gupta/proservemoney)
+[![Demo](https://img.shields.io/badge/🚀_Demo-37a779?style=flat)](https://proservemoney-main.vercel.app/) [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat)](https://github.com/YxshR/proservemoney)
 
 </td>
 <td align="center" width="33%">
 
-### 🖥️ Previwer
+### 🖥️ PreBox
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 **Backend / MERN Full-Stack**
 
-[![Demo](https://img.shields.io/badge/🚀_Demo-37a779?style=flat)](https://prebox-io.vercel.app/) [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat)](https://github.com/Yash-Gupta/previwer)
+[![Demo](https://img.shields.io/badge/🚀_Demo-37a779?style=flat)](https://prebox-io.vercel.app/) [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat)](https://github.com/YxshR/perbox)
 
 </td>
 <td align="center" width="33%">
@@ -85,7 +85,7 @@ Hi, I'm **Yash** 👋 — a passionate **Full-Stack Developer** exploring the in
 
 **MERN Full-Stack Development**
 
-[![Demo](https://img.shields.io/badge/🚀_Demo-37a779?style=flat)](https://admin-ecommerce-perfume-website1.vercel.app/store-routes/store) [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat)](https://github.com/Yash-Gupta/admin-ecommerce-perfume)
+[![Demo](https://img.shields.io/badge/🚀_Demo-37a779?style=flat)](https://admin-ecommerce-perfume-website1.vercel.app/store-routes/store) [![Code](https://img.shields.io/badge/💻_Code-181717?style=flat)](https://github.com/YxshR/admin-ecommerce-perfume-website)
 
 </td>
 </tr>
